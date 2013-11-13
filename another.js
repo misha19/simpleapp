@@ -13,6 +13,8 @@ function saySome (name) {
 saySome(" james Madison ");
 */
 
+//Here is a modification from githut that i made
+
 var x = 0;
 var y = 0;
 var frame;
